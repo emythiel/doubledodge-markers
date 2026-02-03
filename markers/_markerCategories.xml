@@ -1,0 +1,13 @@
+<OverlayData>
+
+    <MarkerCategory name="dd_markers" DisplayName="DoubleDodge Markers" iconFile="data\icon.png">
+
+        <MarkerCategory name="voe" DisplayName="Visions of Eternity" IsSeparator="1">
+            <MarkerCategory name="kela" DisplayName="Kela" heightOffset="2">
+                <MarkerCategory name="crabs" DisplayName="Crabs"/>
+            </MarkerCategory>
+        </MarkerCategory>
+    
+    </MarkerCategory>
+
+</OverlayData>

@@ -1,0 +1,17 @@
+<!-- Visions of Eternity - Kela -->
+<OverlayData>
+    <POIs>
+        <POI MapID="1609" xpos="-503.9205" ypos="43.22372" zpos="306.5102" GUID="JODeFdDK4kqVlcpiWzxUYw==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\1.png"/>
+        <POI MapID="1609" xpos="-511.5046" ypos="43.25574" zpos="331.0413" GUID="3zO2o8t42kazuevPiz1lzA==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\2.png"/>
+        <POI MapID="1609" xpos="-524.9051" ypos="43.20441" zpos="313.5307" GUID="p7tGJF3TJUipVqm3oJ3Gug==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\3.png"/>
+        <POI MapID="1609" xpos="-530.912" ypos="43.22398" zpos="290.2706" GUID="1FxNDfa+ZEOvK8v3K3Z62w==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\4.png"/>
+        <POI MapID="1609" xpos="-540.1592" ypos="43.229" zpos="341.6757" GUID="/WxSpbXCbkaO79GookWoYw==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\5.png"/>
+        <POI MapID="1609" xpos="-550.3505" ypos="43.22361" zpos="312.7077" GUID="pwOo9weBSkCx5ltPew2s/Q==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\6.png"/>
+        <POI MapID="1609" xpos="-547.9947" ypos="43.22357" zpos="292.1202" GUID="3j/FivBEJUe8XLvGb8PYgw==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\7.png"/>
+        <POI MapID="1609" xpos="-555.9268" ypos="43.2237" zpos="358.9911" GUID="kCm2AEfCskq33YFZtuhE9Q==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\8.png"/>
+        <POI MapID="1609" xpos="-565.0522" ypos="43.22369" zpos="333.8611" GUID="791W4rSheESvPkQwD6vHCg==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\9.png"/>
+        <POI MapID="1609" xpos="-568.106" ypos="43.22356" zpos="312.4279" GUID="9c8rIPESGk2FXBWLoKALjw==" type="dd_markers.voe.kela.crabs" iconFile="data\numbers\10.png"/>
+        
+        
+    </POIs>
+</OverlayData>
